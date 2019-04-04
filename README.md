@@ -7,4 +7,5 @@ Zhang, Youshan, & Brian D. Davison. (2019). Modified Distribution Alignment for 
 ![Office+Caltech-10 results](https://github.com/heaventian93/MDAIR/blob/master/Results/office_c10.png)
 ![](https://github.com/heaventian93/MDAIR/blob/master/Results/office31_results.png)
 ![](https://github.com/heaventian93/MDAIR/blob/master/Results/Office-home.png)
-
+The t-SNE view of the comparison of our IR features (a, d and g) with DeCAF (b and e), Resnet-50 (h), and SURF features (c and f). Different color means different classes:
+![](https://github.com/heaventian93/MDAIR/blob/master/Results/tsne_view.png)
