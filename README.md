@@ -1,4 +1,4 @@
-# Modified-Distribution-Alignment-for-Domain-Adaptation-with-Pre-trainedInception-ResNet
+# Modified Distribution Alignment for Domain Adaptation with Pre-trained Inception ResNet
 
 If you use our datasets or code, please cite our paper. Thanks!
 
