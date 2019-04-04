@@ -7,4 +7,4 @@ Zhang, Youshan, & Brian D. Davison. (2019). Modified Distribution Alignment for 
 ![Office+Caltech-10 results](https://github.com/heaventian93/MDAIR/blob/master/Results/office_c10.png)
 ![](https://github.com/heaventian93/MDAIR/blob/master/Results/office31_results.png)
 ![](https://github.com/heaventian93/MDAIR/blob/master/Results/Office-home.png)
-sdscdsd
+
